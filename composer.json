@@ -2,7 +2,7 @@
         "name": "mahmoudahmed/news",
         "description": "A short description of what your package does",
         "require": {
-            "php": ">=7.4",
+            "php": ">=8.0.3",
             "another-vendor/package": "1.*"
         },
         "autoload":
